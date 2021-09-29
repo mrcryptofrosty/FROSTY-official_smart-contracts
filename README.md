@@ -1,3 +1,6 @@
+## Mythx Audit Passed:
+[![MythXBadge](https://badgen.net/https/api.mythx.io/v1/projects/843ac0cb-7cb9-4cd2-902f-b4762a7130f7/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](https://docs.mythx.io/dashboard/github-badges)
+
 ### Genesis NFT Metadata scripts
 
 * Install dependencies `yarn`
@@ -15,9 +18,8 @@ GENESIS_END=
 
 ### BSC-testnet Deployment
 
-| Name | Address | Testnet Link |
+| Name | Address | Mainnet Link |
 | :--: | :-----: | :--------: |
-| FrostyAccessControls: |  0x3C83a78e09a60A8095a062032968FDab845e0105 | <a href="https://testnet.bscscan.com/address/0x3C83a78e09a60A8095a062032968FDab845e0105"><img src="https://bscscan.com/images/logo-bscscan.svg?v=0.0.3"></img></a> |
 | FrostyGenesisNFT:     |  0x2684b1D6B260648fEf13F1a8b55D311a4bdF32f2 | <a href="https://bscscan.com/address/0x2684b1D6B260648fEf13F1a8b55D311a4bdF32f2"><img src="https://bscscan.com/images/logo-bscscan.svg?v=0.0.3"></img></a> |
 
 
