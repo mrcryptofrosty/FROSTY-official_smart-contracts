@@ -21,7 +21,7 @@ GENESIS_END=
 | Name | Address | Mainnet Link |
 | :--: | :-----: | :--------: |
 | FrostyGenesisNFT:     |  0x2684b1D6B260648fEf13F1a8b55D311a4bdF32f2 | <a href="https://bscscan.com/address/0x2684b1D6B260648fEf13F1a8b55D311a4bdF32f2"><img src="https://bscscan.com/images/logo-bscscan.svg?v=0.0.3"></img></a> |
-
+| FRST BEP20 | 0x624b853bb7359061af85f8fe47318c31a866a054 | <a href="https://bscscan.com/address/0x624b853bb7359061af85f8fe47318c31a866a054"><img src="https://bscscan.com/images/logo-bscscan.svg?v=0.0.3"></img></a> |
 
 ### Coverage
 
